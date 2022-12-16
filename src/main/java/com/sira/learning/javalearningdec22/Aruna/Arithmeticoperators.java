@@ -51,10 +51,7 @@ public class Arithmeticoperators {
 	        if(value1 < value2)
 	            System.out.println("value1 is less than value2"); // less than
 	        else System.out.println("value1 is greater than value2 ");
-	        if(value1 <= value2)
-	            System.out.println("value1 is less than value2"); // less than or equal to
-	        else System.out.println("value1 is equal to vaule2");
-	        
+	        	        
 	        }
 
 }
